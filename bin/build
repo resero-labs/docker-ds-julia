@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker build -t resero/docker-ds-julia -f Dockerfile .
